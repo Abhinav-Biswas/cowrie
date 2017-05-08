@@ -1,8 +1,8 @@
-# Cowrie Dockerfile by AV / MO 
+# Cowrie Dockerfile 
 #
 # VERSION 16.10
 FROM debian:jessie-slim
-MAINTAINER AV / MO
+MAINTAINER Abhinav
 
 # Include dist
 ADD dist/ /root/dist/
